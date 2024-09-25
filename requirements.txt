@@ -1,0 +1,8 @@
+sklearn
+fastapi
+numpy
+os
+logging
+mediapipe
+opencv-python
+pickle
